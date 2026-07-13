@@ -1,7 +1,7 @@
-📌 Project Overview
+# 📌 Project Overview
 This project is a responsive Amazon homepage clone built using HTML5 and CSS3. It replicates the basic layout and design of the Amazon website to practice front-end web development concepts such as page structure, styling, positioning, flexbox, and responsive design.
 
-🚀 Features
+## 🚀 Features
 Amazon-inspired homepage design
 Responsive navigation bar
 Search bar layout
@@ -14,7 +14,7 @@ Responsive layout for different screen sizes
 HTML5
 CSS3
 
-🎯 Learning Objectives
+## 🎯 Learning Objectives
 
 This project helped in understanding:
 
