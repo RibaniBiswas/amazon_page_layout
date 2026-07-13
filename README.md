@@ -26,3 +26,11 @@ This project helped in understanding:
 ### Image positioning
 ### Card layouts
 ### Footer design
+
+# 📷 Project Preview
+<img width="1902" height="917" alt="image" src="https://github.com/user-attachments/assets/42dec127-64cc-4f66-9995-a9eeff23609e" />
+<img width="1891" height="912" alt="image" src="https://github.com/user-attachments/assets/6f3b2ca9-21b8-46d1-a8a1-a4406462d3cb" />
+<img width="1887" height="892" alt="image" src="https://github.com/user-attachments/assets/c7a1c5b5-270d-44ef-ad8b-f3a551a19e38" />
+
+
+
