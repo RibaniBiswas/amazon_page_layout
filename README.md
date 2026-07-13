@@ -18,11 +18,11 @@ CSS3
 
 This project helped in understanding:
 
-HTML page structure
-CSS styling and layouts
-Flexbox
-Responsive web design
-Navigation bar creation
-Image positioning
-Card layouts
-Footer design
+### HTML page structure
+### CSS styling and layouts
+### Flexbox
+### Responsive web design
+### Navigation bar creation
+### Image positioning
+### Card layouts
+### Footer design
